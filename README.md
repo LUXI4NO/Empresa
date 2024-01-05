@@ -1,4 +1,4 @@
-# Análisis ficticio de Datos Empresariales
+# Análisis de Datos Ficticios Empresariales
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://empresa.streamlit.app/)
 [![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 ![image](https://github.com/LUXI4NO/Empresa/assets/140111840/278dedb8-11f2-4a4c-ba52-5960aa1359dd)
