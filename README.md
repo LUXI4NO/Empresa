@@ -1,5 +1,5 @@
 # Análisis de Datos Empresariales
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://empresa.streamlit.app/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://emprendimiento.streamlit.app/)
 [![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 ![image](https://github.com/LUXI4NO/Empresa/assets/140111840/278dedb8-11f2-4a4c-ba52-5960aa1359dd)
 
@@ -42,7 +42,7 @@ La aplicación web ofrece diversas funcionalidades, entre las que se incluyen:
 Se generan gráficos interactivos, como dispersión de ventas y beneficios, gráficos de barras de productos más vendidos y rentables, análisis de envíos por segmento de clientes y modos de envío, entre otros.
 
 ## Uso
-Para utilizar la aplicación, visita [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://empresa.streamlit.app/).
+Para utilizar la aplicación, visita [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://emprendimiento.streamlit.app/).
 
 ## Estructura del Repositorio
 ```plaintext
